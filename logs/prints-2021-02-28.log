@@ -1,0 +1,8 @@
+12:30:00.263 [main] INFO  resources.base - Driver is initialized
+12:30:06.485 [main] INFO  resources.base - Naviagted to Home Page
+12:30:18.667 [main] INFO  resources.base - Naviagted to Home Page
+12:30:18.785 [main] INFO  resources.base - Navbar is Displayed
+12:30:21.281 [main] INFO  resources.base - Naviagted to Home Page
+12:30:29.757 [main] DEBUG resources.base - Clicked on Login Button
+12:30:29.892 [main] INFO  resources.base - Entered Username
+12:30:29.982 [main] INFO  resources.base - Entered Password

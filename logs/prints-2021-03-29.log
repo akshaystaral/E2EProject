@@ -1,0 +1,8 @@
+10:12:05.696 [main] INFO  resources.base - Naviagted to Home Page
+10:12:16.335 [main] DEBUG resources.base - Clicked on Login Button
+10:12:16.507 [main] INFO  resources.base - Entered Username
+10:12:16.621 [main] INFO  resources.base - Entered Password
+10:12:16.742 [main] INFO  resources.base - Clicked on Login Button
+10:12:21.883 [main] DEBUG resources.base - Clicked on Login Button
+10:12:22.030 [main] INFO  resources.base - Entered Username
+10:12:22.166 [main] INFO  resources.base - Entered Password

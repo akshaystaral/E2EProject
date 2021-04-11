@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: Academy.validatNavbar
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 69.466 s <<< FAILURE! - in Academy.validatNavbar
+Academy.validatNavbar.initBrowser  Time elapsed: 68.636 s  <<< FAILURE!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Error communicating with the remote browser. It may have died.
+Build info: version: '4.0.0-alpha-7', revision: 'de8579b6d5'
+System info: host: 'LAPTOP-UG5S8S2B', ip: '192.168.43.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\Akshay\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55997}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e86a0b131938362b477009a07113a4d
+	at Academy.validatNavbar.initBrowser(validatNavbar.java:23)
+Caused by: java.lang.RuntimeException: NettyHttpHandler request execution error
+	at Academy.validatNavbar.initBrowser(validatNavbar.java:23)
+Caused by: java.util.concurrent.ExecutionException: java.util.concurrent.TimeoutException: Request timeout to localhost/127.0.0.1:45693 after 60000 ms
+	at Academy.validatNavbar.initBrowser(validatNavbar.java:23)
+Caused by: java.util.concurrent.TimeoutException: Request timeout to localhost/127.0.0.1:45693 after 60000 ms
+

@@ -1,0 +1,7 @@
+22:49:37.500 [TestNG-tests-1] INFO  resources.base - Driver is initialized
+22:49:37.863 [TestNG-tests-4] INFO  resources.base - Naviagted to Home Page
+22:50:14.691 [TestNG-tests-1] INFO  resources.base - Naviagted to Home Page
+22:50:14.691 [TestNG-tests-2] INFO  resources.base - Naviagted to Home Page
+22:50:15.982 [TestNG-tests-2] INFO  resources.base - Navbar is Displayed
+22:50:15.982 [TestNG-tests-1] INFO  resources.base - Character Sequence Matched
+22:50:24.741 [TestNG-tests-4] DEBUG resources.base - Clicked on Login Button

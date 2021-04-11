@@ -1,0 +1,9 @@
+21:37:26.323 [main] INFO  resources.base - Entered Password
+21:37:26.443 [main] INFO  resources.base - Clicked on Login Button
+21:37:39.806 [main] DEBUG resources.base - Clicked on Login Button
+21:37:40.084 [main] INFO  resources.base - Entered Username
+21:37:40.306 [main] INFO  resources.base - Entered Password
+21:37:41.357 [main] INFO  resources.base - Clicked on Login Button
+21:37:41.759 [AsyncHttpClient-1-7] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-7
+21:37:41.759 [AsyncHttpClient-1-3] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-3
+21:37:41.759 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-4
